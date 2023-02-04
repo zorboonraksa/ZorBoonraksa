@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **PHP,Go,React**
 
-- 💬 Ask me about **C#**
-
 - 📫 How to reach me **boonraksa.buaraksa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

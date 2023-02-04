@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zorboonraksa&label=Profile%20views&color=0e75b6&style=flat" alt="zorboonraksa" /> </p>
 
-- 🌱 I’m currently learning **PHP,Go,SQL**
+- 🌱 I’m currently learning **PHP,Go,React**
 
 - 💬 Ask me about **C#**
 

@@ -17,3 +17,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZorBoonraksa&" alt="ZorBoonraksa" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorboonraksa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zorboonraksa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
